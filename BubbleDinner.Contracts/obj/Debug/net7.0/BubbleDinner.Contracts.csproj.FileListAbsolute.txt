@@ -1,0 +1,12 @@
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Contracts\bin\Debug\net7.0\BubbleDinner.Contracts.deps.json
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Contracts\bin\Debug\net7.0\BubbleDinner.Contracts.dll
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Contracts\bin\Debug\net7.0\BubbleDinner.Contracts.pdb
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Contracts\obj\Debug\net7.0\BubbleDinner.Contracts.csproj.AssemblyReference.cache
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Contracts\obj\Debug\net7.0\BubbleDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Contracts\obj\Debug\net7.0\BubbleDinner.Contracts.AssemblyInfoInputs.cache
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Contracts\obj\Debug\net7.0\BubbleDinner.Contracts.AssemblyInfo.cs
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Contracts\obj\Debug\net7.0\BubbleDinner.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Contracts\obj\Debug\net7.0\BubbleDinner.Contracts.dll
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Contracts\obj\Debug\net7.0\refint\BubbleDinner.Contracts.dll
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Contracts\obj\Debug\net7.0\BubbleDinner.Contracts.pdb
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Contracts\obj\Debug\net7.0\ref\BubbleDinner.Contracts.dll

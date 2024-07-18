@@ -1,0 +1,15 @@
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\XmlPlay\obj\Debug\net7.0\XmlPlay.csproj.AssemblyReference.cache
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\XmlPlay\obj\Debug\net7.0\XmlPlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\XmlPlay\obj\Debug\net7.0\XmlPlay.AssemblyInfoInputs.cache
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\XmlPlay\obj\Debug\net7.0\XmlPlay.AssemblyInfo.cs
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\XmlPlay\obj\Debug\net7.0\XmlPlay.csproj.CoreCompileInputs.cache
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\XmlPlay\bin\Debug\net7.0\XmlPlay.exe
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\XmlPlay\bin\Debug\net7.0\XmlPlay.deps.json
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\XmlPlay\bin\Debug\net7.0\XmlPlay.runtimeconfig.json
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\XmlPlay\bin\Debug\net7.0\XmlPlay.dll
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\XmlPlay\bin\Debug\net7.0\XmlPlay.pdb
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\XmlPlay\obj\Debug\net7.0\XmlPlay.dll
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\XmlPlay\obj\Debug\net7.0\refint\XmlPlay.dll
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\XmlPlay\obj\Debug\net7.0\XmlPlay.pdb
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\XmlPlay\obj\Debug\net7.0\XmlPlay.genruntimeconfig.cache
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\XmlPlay\obj\Debug\net7.0\ref\XmlPlay.dll

@@ -1,0 +1,12 @@
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Domain\bin\Debug\net7.0\BubbleDinner.Domain.deps.json
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Domain\bin\Debug\net7.0\BubbleDinner.Domain.dll
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Domain\bin\Debug\net7.0\BubbleDinner.Domain.pdb
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Domain\obj\Debug\net7.0\BubbleDinner.Domain.csproj.AssemblyReference.cache
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Domain\obj\Debug\net7.0\BubbleDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Domain\obj\Debug\net7.0\BubbleDinner.Domain.AssemblyInfoInputs.cache
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Domain\obj\Debug\net7.0\BubbleDinner.Domain.AssemblyInfo.cs
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Domain\obj\Debug\net7.0\BubbleDinner.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Domain\obj\Debug\net7.0\BubbleDinner.Domain.dll
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Domain\obj\Debug\net7.0\refint\BubbleDinner.Domain.dll
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Domain\obj\Debug\net7.0\BubbleDinner.Domain.pdb
+C:\Users\Chukuwumasm\Desktop\projects\cleanapi\BubbleDinner.Domain\obj\Debug\net7.0\ref\BubbleDinner.Domain.dll

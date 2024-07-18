@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<books>
+	<book>
+		<name>the love bok</name>
+		<author>micheal bolten</author>
+	</book>
+	<book>
+		<name>the hate bool</name>
+		<author>john bull</author>
+	</book>
+	<book>
+		<name>the pain book</name>
+		<author>stella maris</author>
+	</book>
+</books>
